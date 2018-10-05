@@ -13,13 +13,13 @@ class Program
 }
 ```
 
-Here's what I see in the cmd
+Here's what I see in the cmd  
 ![](res/cmd.png?raw=true)
 
-here's in VSCode
+here's in VSCode  
 ![](res/vscode.png?raw=true)
 
-and here's in wsl
+and here's in wsl  
 ![](res/wsl.png?raw=true)
 
 Follow the conversation at: https://twitter.com/sebagomez/status/1047990503466315778
